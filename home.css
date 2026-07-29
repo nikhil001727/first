@@ -1,0 +1,54 @@
+body {
+     margin-top: 50px;
+    font-family: Arial;
+    text-align: center;
+    background-color: #FFFDFC;
+}
+
+.container {
+    margin-top: 300px;
+}
+
+h1 {
+    color: #222;
+    font-size: 40px;
+}
+
+p {
+    color: #555;
+    font-size: 20px;
+}
+
+/* Freelancer Button */
+.freelancer {
+    background-color: #007bff;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Client Button */
+.client {
+ 
+    background-color: #ff6b35;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+/* Button hover */
+.freelancer:hover {
+    background-color: #0056b3;
+}
+
+.client:hover {
+    background-color: #d94f1f;
+}
